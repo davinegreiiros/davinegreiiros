@@ -1,9 +1,5 @@
 ### Davi Negreiros 🖥️
 
-<!--
-**davinegreiiros/davinegreiiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 * Computer science student;
 * Working with test analysis
 * I'm currently learning Front End & Back-End Development;
