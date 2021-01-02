@@ -1,8 +1,8 @@
 ### Davi Negreiros 🖥️
 
 * Computer science student;
-* Working with test analysis
-*  currently learning Front End & Back-End Development;
+* Working with Test Analysis and Quality Assurance 
+*  Currently learning Front End & Back-End Development;
 *  Java developer and ReactJS;
 * Development Skills: Java, ReactNative, ReactJS, NodeJs, SpringBoot;
 
