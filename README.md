@@ -1,5 +1,5 @@
 # 💫 About Me:
-Davi Negreiros 🖥️ <br><br> - Computer Science Student 📚🖥️;<br> - Working with Test Analysis and Quality Assurance(QA)<br> - Currently learning Front End & Back-End, Mobile and Test Automato, Test integrantion with Flutter;<br> -  Skills: Java, SpringBoot, manual tests, API'S rest(postman), regression tests<br><br>
+Davi Negreiros 🖥️ <br><br> - Computer Science Student 📚🖥️;<br> - Working with Developer Flutter<br> - Currently learning Front End & Back-End, Mobile and Test Automato, Test integrantion with Flutter;<br> -  Skills: Java, SpringBoot, manual tests, API'S rest(postman), regression tests<br><br>
 
 
 ## 🌐 Socials:
