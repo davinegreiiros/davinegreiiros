@@ -6,7 +6,7 @@
 
 ## 🙋 About Me
 
-- 📱 Flutter Developer focado em **Clean Architecture, BLoC/Cubit e GoRouter**
+- 📱 Flutter Developer focado em **Clean Architecture, BLoc/Cubit e GoRouter**
 - 🏥 Alocado na **Unimed Fortaleza** via Unitech — HealthTech no dia a dia
 - 🔧 Background em QA (testes manuais, automação, Postman, Kibana) que uso como diferencial no dev
 - 🌐 Explorando backend com **NestJS + GraphQL + MongoDB** e Clean Architecture
@@ -54,17 +54,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em Destaque
 
-![](https://github-readme-stats.vercel.app/api?username=davinegreiiros&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=davinegreiiros&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davinegreiiros&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=davinegreiiros&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [🐾 agendamento-app-pet](https://github.com/davinegreiiros/agendamento-app-pet) | App de agendamento para petshop com fluxo completo de marcação de serviços | Flutter · Dart |
+| [⏱️ PomodoroQuest](https://github.com/davinegreiiros/PomodoroQuest) | Pomodoro timer com sistema de gamificação e missões para manter o foco | iOS · Swift |
+| [🌐 portifolio-web](https://github.com/davinegreiiros/portifolio-web) | Portfólio pessoal desenvolvido para apresentar projetos e habilidades | JavaScript |
 
 ---
 
